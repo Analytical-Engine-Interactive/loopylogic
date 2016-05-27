@@ -1,0 +1,30 @@
+/*
+Theme Name: Loopy
+Author: Loopylogic
+
+Description: A child theme of BLDR
+Version: Beta
+Template:bldr
+
+*/
+@import url('../bldr/style.css');
+
+
+/*--------------------------------------------------------------
+Changes for CSS style:
+----------------------------------------------------------------
+
+/* ----------- Hero area ------------------- */
+
+.bldr-hero-content h1 {
+    font-size: 50px;
+    line-height: 54px;
+    margin-bottom: 15px;
+    color: #666666;
+}
+
+.bldr-hero-content h2 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #666666;
+}

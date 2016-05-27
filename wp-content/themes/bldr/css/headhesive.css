@@ -1,0 +1,84 @@
+/*----------------------------------------------------------------------------*\
+    Headhesive Specific Styles
+/*----------------------------------------------------------------------------*/
+
+/**
+ * Headhesive element clone
+ * > `clone` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          clone: 'banner--clone';
+ |      }
+ |  }
+ *
+ */
+.banner--clone {
+
+    /* Required styles */
+    position: fixed;
+    top: 0;
+    left: 0;
+	z-index: 100;
+
+    /* Additional styles */
+    background: #ffffff;
+	
+
+    /* Translate -100% to move off screen */
+    -webkit-transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+            transform: translateY(-100%);
+
+    /* Animations */
+    -webkit-transition: all 300ms ease-in-out;
+       -moz-transition: all 300ms ease-in-out;
+            transition: all 300ms ease-in-out;
+
+}
+
+.banner--clone .site-title { }
+
+.banner--clone .main-navigation a { height: 5.5rem; line-height: 5.25rem; } 
+
+.banner--clone .main-navigation ul ul a {
+    height: auto !important;
+    line-height: 1.5rem;
+}
+
+/**
+ * Headhesive stick
+ * > `stick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          stick: 'banner--stick';
+ |      }
+ |  }
+ *
+ */
+.banner--stick {
+
+    /* Translate back to 0%; */
+    -webkit-transform: translateY(0%);
+        -ms-transform: translateY(0%);
+            transform: translateY(0%);
+}
+
+
+
+
+/**
+ * Headhesive unstick
+ * > `unstick` class for the cloned element:
+ *
+ |  var options = {
+ |      classes {
+ |          unstick: 'banner--unstick';
+ |      }
+ |  }
+ *
+ */
+.banner--unstick {
+    /* Not required to use, but could be useful to have */
+}

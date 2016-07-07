@@ -2,11 +2,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /loopy_logic/
+RewriteBase /loopylogic/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /loopy_logic/index.php [L]
+RewriteRule . /loopylogic/index.php [L]
 </IfModule>
 
 # END WordPress

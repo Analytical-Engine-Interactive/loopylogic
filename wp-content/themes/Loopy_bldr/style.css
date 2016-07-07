@@ -28,3 +28,11 @@ Changes for CSS style:
     line-height: 24px;
     color: #666666;
 }
+
+
+
+/* ----------- Footer ---------------------- */
+
+.social-bar {
+    padding: 20px 0 20px;
+}

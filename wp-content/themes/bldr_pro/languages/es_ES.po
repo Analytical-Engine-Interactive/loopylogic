@@ -1,0 +1,2534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BLDR Pro v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-31 19:28:27+0000\n"
+"Last-Translator: robbie <contact@modernthemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:16
+#@ bldr
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡ Uy! Esa página no se encuentra."
+
+#: 404.php:20
+#@ bldr
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que en este lugar no se encontró nada. ¿Tal vez probar uno de los enlaces de abajo o una búsqueda?"
+
+#: inc/template-tags.php:147
+#, php-format
+#@ bldr
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:153
+#, php-format
+#@ bldr
+msgid "Day: %s"
+msgstr "Día: %s"
+
+#: inc/template-tags.php:151
+#, php-format
+#@ bldr
+msgid "Month: %s"
+msgstr "Mes: %s"
+
+#: inc/template-tags.php:151
+#@ bldr
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:149
+#, php-format
+#@ bldr
+msgid "Year: %s"
+msgstr "Año: %s"
+
+#: inc/template-tags.php:149
+#@ bldr
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:181
+#@ bldr
+msgid "Archives"
+msgstr "Archivos"
+
+#: comments.php:28
+#, php-format
+#@ bldr
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en \\\"%2$s\\\""
+msgstr[1] "pensamientos de %1$ s \\\"%2$s\\\""
+
+#: comments.php:35
+#: comments.php:52
+#@ bldr
+msgid "Comment navigation"
+msgstr "Navegación comentario"
+
+#: comments.php:36
+#: comments.php:53
+#@ bldr
+msgid "&larr; Older Comments"
+msgstr "&larr; Mayores comentarios"
+
+#: comments.php:37
+#: comments.php:54
+#@ bldr
+msgid "Newer Comments &rarr;"
+msgstr "Comentario más reciente &rarr;"
+
+#: comments.php:64
+#@ bldr
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-none.php:13
+#@ bldr
+msgid "Nothing Found"
+msgstr "Nada encontrado"
+
+#: content-none.php:19
+#, php-format
+#@ bldr
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+#@ bldr
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada emparejó los términos de búsqueda. Por favor, pruebe con algunas palabras clave diferente."
+
+#: content-none.php:28
+#@ bldr
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que estás buscando. Tal vez buscando puede ayudar."
+
+#: content-page.php:18
+#: content-single.php:23
+#: content.php:31
+#@ bldr
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-page-home.php:16
+#: content-page.php:25
+#: inc/template-tags.php:126
+#@ bldr
+msgid "Edit"
+msgstr "Editar"
+
+#: widgets/bldr-home-news.php:233
+#@ bldr
+msgid "Read More"
+msgstr "Leer más"
+
+#: footer.php:154
+#, php-format
+#@ bldr
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: functions.php:58
+#@ bldr
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:103
+#@ bldr
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: header-home.php:37
+#: header.php:37
+#@ bldr
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: header-home.php:58
+#: header-home.php:86
+#: header-home.php:96
+#: header.php:58
+#@ bldr
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer.php:968
+#@ bldr
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer.php:1098
+#@ bldr
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: inc/customizer.php:1122
+#@ bldr
+msgid "Link Color"
+msgstr "Color del vínculo"
+
+#: inc/customizer.php:1134
+#@ bldr
+msgid "Hover Color"
+msgstr "Hover Color"
+
+#: inc/customizer.php:1146
+#@ bldr
+msgid "Site Title Color"
+msgstr "Sitio título Color"
+
+#: inc/customizer.php:1110
+#@ bldr
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer.php:1182
+#@ bldr
+msgid "Blockquote Accent Color"
+msgstr "Blockquote acento de Color"
+
+#: inc/customizer.php:147
+#@ bldr
+msgid "Page Navigation Background Color"
+msgstr "Color de fondo de la navegación de página"
+
+#: inc/customizer.php:159
+#@ bldr
+msgid "Page Navigation Link Color"
+msgstr "Color de vínculo de navegación de página"
+
+#: inc/customizer.php:286
+#@ bldr
+msgid "Logo and Icons"
+msgstr "Logotipo e iconos"
+
+#: inc/customizer.php:288
+#@ bldr
+msgid "Upload a logo to replace the default site name and description in the header. Also, upload your site favicon and Apple Icons."
+msgstr "Subir un logo para reemplazar el nombre por defecto del sitio y la descripción en el encabezado. Además, subir tu sitio favicon e iconos de Apple."
+
+#: inc/customizer.php:296
+#@ bldr
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/customizer.php:320
+#@ bldr
+msgid "Change the width of the Logo in PX."
+msgstr "Cambiar el ancho del logotipo en PX."
+
+#: inc/customizer.php:321
+#@ bldr
+msgid "Only enter numeric value"
+msgstr "Sólo ingrese valor numérico"
+
+#: inc/customizer.php:340
+#@ bldr
+msgid "Upload your favicon (16x16 pixels)"
+msgstr "Sube tu favicon (16 x 16 píxeles)"
+
+#: inc/customizer.php:360
+#@ bldr
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Subir tu icono de Touch de Apple (144 x 144 píxeles)"
+
+#: inc/customizer.php:380
+#@ bldr
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Subir tu icono de toque Apple (114 x 114 pixeles)"
+
+#: inc/customizer.php:400
+#@ bldr
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Subir tu icono de Touch de Apple (72 x 72 píxeles)"
+
+#: inc/customizer.php:420
+#@ bldr
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Subir tu icono de Touch de Apple (57 x 57 píxeles)"
+
+#: inc/customizer.php:726
+#@ bldr
+msgid "Social Media Icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/customizer.php:790
+#@ bldr
+msgid "Social Icon Color"
+msgstr "Icono social Color"
+
+#: inc/customizer.php:802
+#@ bldr
+msgid "Social Icon Hover Color"
+msgstr "Icono social Hover Color"
+
+#: inc/customizer.php:815
+#@ bldr
+msgid "Facebook URL:"
+msgstr "URL de Facebook:"
+
+#: inc/customizer.php:828
+#@ bldr
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/customizer.php:841
+#@ bldr
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: inc/customizer.php:854
+#@ bldr
+msgid "Google Plus URL:"
+msgstr ""
+
+#: inc/customizer.php:867
+#@ bldr
+msgid "Instagram URL:"
+msgstr ""
+
+#: inc/customizer.php:880
+#@ bldr
+msgid "Flickr URL:"
+msgstr ""
+
+#: inc/customizer.php:893
+#@ bldr
+msgid "Pinterest URL:"
+msgstr ""
+
+#: inc/customizer.php:906
+#@ bldr
+msgid "YouTube URL:"
+msgstr ""
+
+#: inc/customizer.php:919
+#@ bldr
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/customizer.php:932
+#@ bldr
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/customizer.php:945
+#@ bldr
+msgid "Dribbble URL:"
+msgstr ""
+
+#: inc/customizer.php:958
+#@ bldr
+msgid "RSS URL:"
+msgstr ""
+
+#: inc/customizer.php:630
+#@ bldr
+msgid "External URL Option"
+msgstr "Opción URL externa"
+
+#: inc/customizer.php:648
+#@ bldr
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/customizer.php:650
+#@ bldr
+msgid "Customize your footer area"
+msgstr "Personalice su área de pie de página"
+
+#: inc/customizer.php:661
+#@ bldr
+msgid "Footer Byline Text"
+msgstr "Texto de autor de pie de página"
+
+#: inc/customizer.php:1260
+#@ bldr
+msgid "Post content"
+msgstr "Publicar contenido"
+
+#: inc/customizer.php:1282
+#@ bldr
+msgid "Excerpt length"
+msgstr "Extracto de longitud"
+
+#: inc/extras.php:52
+#, php-format
+#@ bldr
+msgid "Page %s"
+msgstr "Página de %s"
+
+#: inc/template-tags.php:23
+#@ bldr
+msgid "Posts navigation"
+msgstr "Puestos de navegación"
+
+#: inc/template-tags.php:27
+#@ bldr
+msgid "Older posts"
+msgstr "Mensajes antiguos"
+
+#: inc/template-tags.php:31
+#@ bldr
+msgid "Newer posts"
+msgstr "Mensajes más recientes"
+
+#: inc/template-tags.php:56
+#@ bldr
+msgid "Post navigation"
+msgstr "Navegación de correos"
+
+#: inc/template-tags.php:86
+#, php-format
+#@ bldr
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicada en %s"
+
+#: inc/template-tags.php:91
+#, php-format
+#@ bldr
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108
+#: inc/template-tags.php:114
+#@ bldr
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:110
+#, php-format
+#@ bldr
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$ s"
+
+#: inc/template-tags.php:116
+#, php-format
+#@ bldr
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#: inc/template-tags.php:122
+#@ bldr
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: inc/template-tags.php:122
+#@ bldr
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:122
+#@ bldr
+msgid "% Comments"
+msgstr "% Comentarios"
+
+#: inc/template-tags.php:143
+#, php-format
+#@ bldr
+msgid "Category: %s"
+msgstr "Categoría: %s"
+
+#: inc/template-tags.php:145
+#, php-format
+#@ bldr
+msgid "Tag: %s"
+msgstr "Etiqueta: %s"
+
+#: inc/template-tags.php:153
+#@ bldr
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:156
+#@ bldr
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Apartes"
+
+#: inc/template-tags.php:158
+#@ bldr
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerías de arte"
+
+#: inc/template-tags.php:160
+#@ bldr
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/template-tags.php:162
+#@ bldr
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/template-tags.php:164
+#@ bldr
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Comillas"
+
+#: inc/template-tags.php:166
+#@ bldr
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/template-tags.php:168
+#@ bldr
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Estados"
+
+#: inc/template-tags.php:170
+#@ bldr
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:172
+#@ bldr
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Charlas"
+
+#: inc/template-tags.php:175
+#, php-format
+#@ bldr
+msgid "Archives: %s"
+msgstr "Archivos: %s"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+#, php-format
+#@ bldr
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:321
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:323
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:325
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:327
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:329
+#, php-format
+#@ bldr
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:331
+#, php-format
+#@ bldr
+msgid "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgid_plural "First time using Modern Themes? We recommend certain plugins if you desire additional functionality (like %1$s)."
+msgstr[0] "¿Por primera vez usando temas modernos? Recomendamos algunos plugins si deseas funcionalidades adicionales (tales como %1$s)."
+msgstr[1] "¿Por primera vez usando temas modernos? Recomendamos algunos plugins si deseas funcionalidades adicionales (tales como %1$s)."
+
+#: panel/class-tgm-plugin-activation.php:333
+#, php-format
+#@ bldr
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para instalar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin instalado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para instalar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins instalados."
+
+#: panel/class-tgm-plugin-activation.php:335
+#, php-format
+#@ bldr
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente requiere plugin está actualmente inactiva: %1$s."
+msgstr[1] "El siguiente requiere los plugins son actualmente inactivos: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:337
+#, php-format
+#@ bldr
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Recomienda el siguiente plugin está actualmente inactiva: %1$s."
+msgstr[1] "Recomienda lo siguiente los plugins son actualmente inactivos: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:339
+#, php-format
+#@ bldr
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para activar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin activado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para activar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins activados."
+
+#: panel/class-tgm-plugin-activation.php:341
+#, php-format
+#@ bldr
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#: panel/class-tgm-plugin-activation.php:343
+#, php-format
+#@ bldr
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo siento, pero usted no tiene los permisos correctos para actualizar el plugin %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir el plugin actualizado."
+msgstr[1] "Lo siento, pero usted no tiene los permisos correctos para actualizar los plugins de %s. Póngase en contacto con el administrador de este sitio para obtener ayuda en conseguir los plugins actualizados."
+
+#: panel/class-tgm-plugin-activation.php:345
+#@ bldr
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar plugins"
+
+#: panel/class-tgm-plugin-activation.php:347
+#@ bldr
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar plugin"
+msgstr[1] "Comenzar a activar plugins"
+
+#: panel/class-tgm-plugin-activation.php:349
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:351
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:353
+#: panel/class-tgm-plugin-activation.php:3891
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:357
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:359
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:1069
+#: panel/class-tgm-plugin-activation.php:4325
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2339
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2345
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2355
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2361
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2367
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2371
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2581
+#: panel/class-tgm-plugin-activation.php:2797
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2625
+#: panel/class-tgm-plugin-activation.php:2799
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2723
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2755
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2757
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2759
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:2761
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: panel/class-tgm-plugin-activation.php:3273
+#: panel/class-tgm-plugin-activation.php:355
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: panel/class-tgm-plugin-activation.php:3857
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3859
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3861
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3863
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3865
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3867
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:3889
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4117
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4119
+#: panel/class-tgm-plugin-activation.php:4137
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4121
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4123
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4131
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4133
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4135
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4137
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4139
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: panel/class-tgm-plugin-activation.php:4141
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: panel/bldr-admin_page.php:218
+#@ bldr
+msgid "View Video"
+msgstr "Ver vídeo"
+
+#: panel/bldr-admin_page.php:222
+#@ bldr
+msgid "Documentation"
+msgstr "Documentación"
+
+#: panel/bldr-admin_page.php:234
+#@ bldr
+msgid "About ModernThemes"
+msgstr "Acerca de ModernThemes"
+
+#: panel/bldr-admin_page.php:242
+#@ bldr
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: search.php:17
+#, php-format
+#@ bldr
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: widgets/contact-info.php:12
+#@ bldr
+msgid "Display your contact info"
+msgstr "Mostrar tu información de contacto"
+
+#: widgets/contact-info.php:14
+#@ bldr
+msgid "MT: Contact Info Widget"
+msgstr "MT: Información de contacto Widget"
+
+#: widgets/bldr-clients.php:49
+#: widgets/bldr-cta.php:56
+#: widgets/bldr-details.php:75
+#: widgets/bldr-home-news.php:52
+#: widgets/bldr-projects.php:55
+#: widgets/bldr-services.php:56
+#: widgets/bldr-skills.php:70
+#: widgets/bldr-team.php:55
+#: widgets/bldr-testimonials.php:57
+#: widgets/contact-info.php:52
+#: widgets/video-widget.php:49
+#@ bldr
+msgid "Title"
+msgstr "Título"
+
+#: widgets/contact-info.php:60
+#@ bldr
+msgid "Enter your address"
+msgstr "Introduzca su dirección de"
+
+#: widgets/contact-info.php:66
+#@ bldr
+msgid "Enter your phone number"
+msgstr "Ingrese su número de teléfono"
+
+#: widgets/contact-info.php:72
+#@ bldr
+msgid "Enter your email address"
+msgstr "Introduzca su dirección de correo electrónico"
+
+#: widgets/contact-info.php:170
+#@ bldr
+msgid "Contact info"
+msgstr "Información de contacto"
+
+#: widgets/contact-info.php:194
+#@ bldr
+msgid "Address: "
+msgstr "Dirección: "
+
+#: widgets/contact-info.php:204
+#@ bldr
+msgid "Phone: "
+msgstr "Teléfono: "
+
+#: widgets/contact-info.php:214
+#@ bldr
+msgid "Email: "
+msgstr "Correo electrónico: "
+
+#: widgets/video-widget.php:13
+#@ bldr
+msgid "Video for your sidebar."
+msgstr "Video para matarlo."
+
+#: widgets/video-widget.php:15
+#@ bldr
+msgid "MT: Video Widget"
+msgstr "MT: Vídeo Widget"
+
+#: widgets/video-widget.php:57
+#@ bldr
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Pegar la dirección URL del vídeo (sólo desde una red que soporta oEmbed, como Youtube, Vimeo etc..):"
+
+#: widgets/video-widget.php:151
+#@ bldr
+msgid "Video"
+msgstr "Video"
+
+#: 404.php:28
+#@ bldr
+msgid "Most Used Categories"
+msgstr "La mayoría utiliza categorías"
+
+#. translators: %1$s: smiley
+#: 404.php:45
+#, php-format
+#@ bldr
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Intenta buscar en los archivos mensuales. %1$s"
+
+#: content.php:24
+#: content.php:26
+#@ bldr
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:123
+#@ bldr
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:125
+#@ bldr
+msgid "Populate your first Footer area"
+msgstr "Poblar su primera área de pie de página"
+
+#: functions.php:133
+#@ bldr
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:135
+#@ bldr
+msgid "Populate your second Footer area"
+msgstr "Poblar su segundo área de pie de página"
+
+#: functions.php:143
+#@ bldr
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:145
+#@ bldr
+msgid "Populate your third Footer area"
+msgstr "Poblar su tercer área de pie de página"
+
+#: functions.php:153
+#@ bldr
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:155
+#@ bldr
+msgid "Populate your fourth Footer area"
+msgstr "Rellenar la cuarta área de pie de página"
+
+#: header-home.php:45
+#: header.php:45
+#@ bldr
+msgid "165"
+msgstr "165"
+
+#: header-home.php:96
+#@ bldr
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/customizer.php:35
+#@ bldr
+msgid "BLDR Pro"
+msgstr "BLDR Pro"
+
+#: inc/customizer.php:62
+#@ bldr
+msgid "Mobile Menu Name"
+msgstr "Nombre del menú móvil"
+
+#: inc/customizer.php:74
+#@ bldr
+msgid "Navigation Link Color"
+msgstr "Color del vínculo de navegación"
+
+#: inc/customizer.php:86
+#@ bldr
+msgid "Navigation Link Hover Color"
+msgstr "Navegación enlace Hover Color"
+
+#: inc/customizer.php:98
+#@ bldr
+msgid "Menu Drop Down Background Color"
+msgstr "Menú desplegable Color de fondo"
+
+#: inc/customizer.php:110
+#@ bldr
+msgid "Menu Drop Down Accent Color"
+msgstr "Menú desplegable de acento de Color"
+
+#: inc/customizer.php:122
+#@ bldr
+msgid "Menu Drop Down Link Color"
+msgstr "Menú desplegable Color del vínculo"
+
+#: inc/customizer.php:135
+#@ bldr
+msgid "Menu Drop Down Link Background Color"
+msgstr "Menú desplegable Color de fondo de enlace"
+
+#: inc/customizer.php:171
+#@ bldr
+msgid "Page Navigation Link Hover Color"
+msgstr "Página navegación enlace Hover Color"
+
+#: inc/customizer.php:179
+#@ bldr
+msgid "Sticky Navigation"
+msgstr "Navegación pegajoso"
+
+#: inc/customizer.php:181
+#@ bldr
+msgid "Adjust your Sticky Navigation settings here."
+msgstr "Ajuste su configuración de navegación pegajoso aquí."
+
+#: inc/customizer.php:195
+#@ bldr
+msgid "Check this box if you want to disable the Sticky Header option"
+msgstr "Marque esta casilla si desea deshabilitar la opción Header pegajoso"
+
+#: inc/customizer.php:206
+#@ bldr
+msgid "Sticky Navigation Background Color"
+msgstr "Color de fondo de navegación pegajoso"
+
+#: inc/customizer.php:218
+#@ bldr
+msgid "Sticky Navigation Link Color"
+msgstr "Color del vínculo de navegación pegajoso"
+
+#: inc/customizer.php:230
+#@ bldr
+msgid "Sticky Navigation Link Hover Color"
+msgstr "Vínculo de navegación pegajoso Hover Color"
+
+#: inc/customizer.php:242
+#@ bldr
+msgid "Sticky Navigation Menu Drop Down Background Color"
+msgstr "Navegación pegajoso menú desplegable Color de fondo"
+
+#: inc/customizer.php:254
+#@ bldr
+msgid "Sticky Navigation Menu Drop Down Accent Color"
+msgstr "Navegación pegajoso menú desplegable de acento de Color"
+
+#: inc/customizer.php:266
+#@ bldr
+msgid "Sticky Navigation Menu Drop Down Link Color"
+msgstr "Navegación pegajoso menú desplegable Color del vínculo"
+
+#: inc/customizer.php:278
+#@ bldr
+msgid "Sticky Navigation Menu Drop Down Link Background Color"
+msgstr "Navegación pegajoso menú desplegable Color de fondo de enlace"
+
+#: inc/customizer.php:307
+#@ bldr
+msgid "Page Logo"
+msgstr "Logo de la página"
+
+#: inc/customizer.php:533
+#@ bldr
+msgid "Home Hero Section"
+msgstr "Sección casa héroe"
+
+#: inc/customizer.php:535
+#@ bldr
+msgid "Edit your Home Page Hero"
+msgstr "Editar tu página de inicio de héroe"
+
+#: inc/customizer.php:548
+#@ bldr
+msgid "Hide Hero"
+msgstr "Ocultar héroe"
+
+#: inc/customizer.php:560
+#@ bldr
+msgid "Hero Image"
+msgstr "Imagen de héroe"
+
+#: inc/customizer.php:574
+#@ bldr
+msgid "Hero Heading"
+msgstr "Partida del héroe"
+
+#: inc/customizer.php:588
+#@ bldr
+msgid "Hero Second Heading"
+msgstr "Segundo título de héroe"
+
+#: inc/customizer.php:602
+#@ bldr
+msgid "Hero Button Text"
+msgstr "Texto del botón héroe"
+
+#: inc/customizer.php:615
+#@ bldr
+msgid "Hero Button URL"
+msgstr "Héroe botón URL"
+
+#: inc/customizer.php:631
+#@ bldr
+msgid "If you use an external URL, leave the Hero Button URL Link above empty. Must include http:// before any URL."
+msgstr "Si utilizas una URL externa, dejo el Link de URL héroe botón arriba vacío. Debe incluir http:// antes de cualquier URL."
+
+#: inc/customizer.php:642
+#@ bldr
+msgid "Footer Options"
+msgstr "Opciones de pie de página"
+
+#: inc/customizer.php:643
+#@ bldr
+msgid "Edit your footer options"
+msgstr "Editar las opciones de pie de página"
+
+#: inc/customizer.php:673
+#@ bldr
+msgid "Footer Background Color"
+msgstr "Color de fondo de pie de página"
+
+#: inc/customizer.php:685
+#@ bldr
+msgid "Footer Heading Color"
+msgstr "Pie de página encabezado Color"
+
+#: inc/customizer.php:697
+#@ bldr
+msgid "Footer Text Color"
+msgstr "Color del texto de pie de página"
+
+#: inc/customizer.php:709
+#@ bldr
+msgid "Footer Link Color"
+msgstr "Color del vínculo de pie de página"
+
+#: inc/customizer.php:720
+#@ bldr
+msgid "Social Section"
+msgstr "Sección social"
+
+#: inc/customizer.php:721
+#@ bldr
+msgid "Edit your social media icons"
+msgstr "Editar tus iconos de redes sociales"
+
+#: inc/customizer.php:741
+#@ bldr
+msgid "Hide Social Section"
+msgstr "Ocultar sección Social"
+
+#: inc/customizer.php:753
+#@ bldr
+msgid "Social Heading"
+msgstr "Dirección social"
+
+#: inc/customizer.php:765
+#@ bldr
+msgid "Social Background Color"
+msgstr "Color de fondo social"
+
+#: inc/customizer.php:777
+#@ bldr
+msgid "Social Border Color"
+msgstr "Color del borde social"
+
+#: inc/customizer.php:1071
+#@ bldr
+msgid "Select your desired font for the headings. Source Sans Pro is the default Heading font."
+msgstr "Seleccionar la fuente deseada para los títulos. Fuente Sans Pro es la fuente de la dirección predeterminada."
+
+#: inc/customizer.php:1086
+#@ bldr
+msgid "Select your desired font for the body. Source Sans Pro is the default Body font."
+msgstr "Seleccione la fuente deseada para el cuerpo. Fuente Sans Pro es la fuente del cuerpo predeterminada."
+
+#: inc/customizer.php:1158
+#@ bldr
+msgid "Page + Sticky Nav Site Title Color"
+msgstr "Página + pegajoso Nav sitio título Color"
+
+#: inc/customizer.php:1170
+#@ bldr
+msgid "Blockquote Background"
+msgstr "Fondo blockquote"
+
+#: inc/customizer.php:1194
+#@ bldr
+msgid "Entry Title Color"
+msgstr "Entrada título Color"
+
+#: inc/customizer.php:1206
+#@ bldr
+msgid "Button Text Color"
+msgstr "Botón Color del texto"
+
+#: inc/customizer.php:1226
+#@ bldr
+msgid "Animations"
+msgstr "Animaciones"
+
+#: inc/customizer.php:1228
+#@ bldr
+msgid "We can make things fly across the screen."
+msgstr "Podemos hacer cosas volando por la pantalla."
+
+#: inc/customizer.php:1242
+#@ bldr
+msgid "Check this box if you want to disable the animations."
+msgstr "Marque esta casilla si desea deshabilitar las animaciones."
+
+#: inc/customizer.php:1249
+#@ bldr
+msgid "Layout"
+msgstr "Diseño"
+
+#: inc/customizer.php:1251
+#@ bldr
+msgid "Change how BLDR displays posts"
+msgstr "Cambiar cómo BLDR muestra los mensajes"
+
+#: inc/customizer.php:1283
+#@ bldr
+msgid "Choose your excerpt length here. Default: 50 words"
+msgstr "Elegir la longitud del fragmento aquí. Valor predeterminado: 50 palabras"
+
+#: inc/customizer.php:1471
+#: inc/customizer.php:1483
+#: inc/customizer.php:1496
+#: inc/customizer.php:1524
+#: inc/customizer.php:1528
+#: inc/customizer.php:1532
+#: inc/customizer.php:1536
+#: inc/customizer.php:1540
+#@ bldr
+msgid "#039BE5"
+msgstr "#039BE5"
+
+#: inc/customizer.php:1488
+#@ bldr
+msgid "#888888"
+msgstr ""
+
+#: inc/customizer.php:1500
+#: inc/customizer.php:1516
+#: inc/customizer.php:1546
+#: inc/customizer.php:1554
+#: inc/customizer.php:1558
+#: inc/customizer.php:1562
+#: inc/customizer.php:1574
+#: inc/customizer.php:1590
+#: inc/customizer.php:1602
+#@ bldr
+msgid "#ffffff"
+msgstr ""
+
+#: inc/customizer.php:1504
+#@ bldr
+msgid "#dadada"
+msgstr ""
+
+#: inc/customizer.php:1508
+#@ bldr
+msgid "#161B1F"
+msgstr ""
+
+#: inc/customizer.php:1512
+#@ bldr
+msgid "#6c7980"
+msgstr ""
+
+#: inc/customizer.php:1520
+#@ bldr
+msgid "#cccccc"
+msgstr ""
+
+#: inc/customizer.php:1550
+#: inc/customizer.php:1566
+#: inc/customizer.php:1570
+#: inc/customizer.php:1594
+#: inc/customizer.php:1598
+#: inc/customizer.php:1626
+#: inc/customizer.php:1630
+#@ bldr
+msgid "#404040"
+msgstr ""
+
+#: inc/customizer.php:1578
+#: inc/customizer.php:1606
+#: inc/customizer.php:1638
+#@ bldr
+msgid "#039be5"
+msgstr ""
+
+#: inc/customizer.php:1582
+#: inc/customizer.php:1610
+#@ bldr
+msgid "#666666"
+msgstr ""
+
+#: inc/customizer.php:1586
+#: inc/customizer.php:1614
+#: inc/customizer.php:1618
+#@ bldr
+msgid "#f5f5f5"
+msgstr ""
+
+#: inc/customizer.php:1622
+#@ bldr
+msgid "#222222"
+msgstr ""
+
+#: inc/customizer.php:1634
+#@ bldr
+msgid "#FFFFFF"
+msgstr ""
+
+#: inc/rows.php:13
+#@ bldr
+msgid "Color"
+msgstr "Color"
+
+#: inc/rows.php:18
+#@ bldr
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/rows.php:23
+#@ bldr
+msgid "Background Image URL (Call-to-Action Widget only)"
+msgstr "URL de la imagen de fondo (sólo Widget llamado a la acción)"
+
+#: panel/bldr-admin_page.php:201
+#@ bldr
+msgid "BLDR Theme Details"
+msgstr "BLDR tema detalles"
+
+#: panel/bldr-admin_page.php:206
+#@ bldr
+msgid "Thank you for using BLDR!"
+msgstr "Gracias por usar BLDR!"
+
+#: widgets/bldr-clients.php:13
+#@ bldr
+msgid "Show your visitors your impressive client list."
+msgstr "Mostrar a sus visitantes su lista de clientes impresionante."
+
+#: widgets/bldr-clients.php:15
+#@ bldr
+msgid "Home Page Clients"
+msgstr "Clientes de la página de inicio"
+
+#: widgets/bldr-clients.php:45
+#@ bldr
+msgid "In order to display this widget, you must first add some Clients custom post types."
+msgstr "Para mostrar este widget, primero es necesario agregar que algunos clientes personalizados tipos de correos."
+
+#: widgets/bldr-clients.php:142
+#@ bldr
+msgid "Clients"
+msgstr "Clientes"
+
+#: widgets/bldr-columns.php:11
+#@ bldr
+msgid "Populate four columns for your home page."
+msgstr "Rellenar cuatro columnas para tu página de inicio."
+
+#: widgets/bldr-columns.php:13
+#@ bldr
+msgid "Home Page Columns"
+msgstr "Columnas de la página de inicio"
+
+#: widgets/bldr-columns.php:91
+#@ bldr
+msgid "First column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Primer icono de la columna. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-columns.php:99
+#@ bldr
+msgid "First column name"
+msgstr "Primer nombre de la columna"
+
+#: widgets/bldr-columns.php:108
+#@ bldr
+msgid "First column text"
+msgstr "Primer texto de la columna"
+
+#: widgets/bldr-columns.php:117
+#@ bldr
+msgid "Link for first button"
+msgstr "Enlace para el primer botón"
+
+#: widgets/bldr-columns.php:127
+#@ bldr
+msgid "Title for first button"
+msgstr "Título para el primer botón"
+
+#: widgets/bldr-columns.php:139
+#@ bldr
+msgid "Second column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Segundo icono de la columna. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-columns.php:147
+#@ bldr
+msgid "Second column name"
+msgstr "Segundo nombre de columna"
+
+#: widgets/bldr-columns.php:157
+#@ bldr
+msgid "Second column text"
+msgstr "Segundo texto de la columna"
+
+#: widgets/bldr-columns.php:165
+#@ bldr
+msgid "Link for second button"
+msgstr "Enlace para segundo botón"
+
+#: widgets/bldr-columns.php:175
+#@ bldr
+msgid "Title for second button"
+msgstr "Título para el segundo botón"
+
+#: widgets/bldr-columns.php:187
+#@ bldr
+msgid "Third column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Tercer icono de la columna. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-columns.php:195
+#@ bldr
+msgid "Third column name"
+msgstr "Tercer nombre de columna"
+
+#: widgets/bldr-columns.php:205
+#@ bldr
+msgid "Third column text"
+msgstr "Texto en una tercera columna"
+
+#: widgets/bldr-columns.php:214
+#@ bldr
+msgid "Link for third button"
+msgstr "Enlace de tercer botón"
+
+#: widgets/bldr-columns.php:224
+#@ bldr
+msgid "Title for third button"
+msgstr "Título de tercer botón"
+
+#: widgets/bldr-columns.php:235
+#@ bldr
+msgid "Fourth column icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Cuarto icono de columna. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-columns.php:243
+#@ bldr
+msgid "Fourth column name"
+msgstr "Nombre de la cuarto columna"
+
+#: widgets/bldr-columns.php:253
+#@ bldr
+msgid "Fourth column value"
+msgstr "Valor de la cuarta columna"
+
+#: widgets/bldr-columns.php:261
+#@ bldr
+msgid "Link for fourth button"
+msgstr "Enlace para el cuarto botón"
+
+#: widgets/bldr-columns.php:271
+#@ bldr
+msgid "Title for fourth button"
+msgstr "Título para el cuarto botón"
+
+#: widgets/bldr-cta.php:13
+#@ bldr
+msgid "Create a widget area for your home page."
+msgstr "Crear un área de widget para tu página de inicio."
+
+#: widgets/bldr-cta.php:15
+#@ bldr
+msgid "Home Page Widget Call-to-Action"
+msgstr "Página de inicio Widget llamado a la acción"
+
+#: widgets/bldr-cta.php:66
+#@ bldr
+msgid "Enter your call to action."
+msgstr "Introduzca su llamada a la acción."
+
+#: widgets/bldr-cta.php:76
+#@ bldr
+msgid "Link for the button"
+msgstr "Enlace del botón"
+
+#: widgets/bldr-cta.php:86
+#@ bldr
+msgid "Title for the button"
+msgstr "Título del botón"
+
+#: widgets/bldr-home-news.php:13
+#@ bldr
+msgid "Show all your news posts on your home page."
+msgstr "Mostrar todos los mensajes de sus noticias en tu página de inicio."
+
+#: widgets/bldr-home-news.php:15
+#@ bldr
+msgid "Home Page News Posts"
+msgstr "Página de Inicio Noticias Posts"
+
+#: widgets/bldr-home-news.php:60
+#@ bldr
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Escriba la bala para su categoría o deje vacío para mostrar los mensajes de todas las categorías."
+
+#: widgets/bldr-home-news.php:66
+#@ bldr
+msgid "Button Text. Default is set to <em>See All</em>."
+msgstr "Texto del botón. Por defecto se establece en <em>Ver todas</em>."
+
+#: widgets/bldr-home-news.php:162
+#@ bldr
+msgid "News"
+msgstr "Noticias"
+
+#: widgets/bldr-home-news.php:172
+#: widgets/bldr-projects.php:246
+#: widgets/bldr-services.php:240
+#: widgets/bldr-team.php:246
+#: widgets/bldr-testimonials.php:265
+#@ bldr
+msgid "See All"
+msgstr "Ver todos"
+
+#: widgets/bldr-projects.php:13
+#@ bldr
+msgid "With this widget you can display all those projects you are proud of."
+msgstr "Con este widget puede mostrar estás orgulloso de esos proyectos."
+
+#: widgets/bldr-projects.php:15
+#@ bldr
+msgid "Home Page Projects"
+msgstr "Página de inicio de proyectos"
+
+#: widgets/bldr-projects.php:51
+#@ bldr
+msgid "In order to display this widget, you must first add some Projects custom post types."
+msgstr "Para mostrar este widget, primero es necesario agregar algunos tipos de correos personalizados de proyectos."
+
+#: widgets/bldr-projects.php:167
+#@ bldr
+msgid "Projects"
+msgstr "Proyectos"
+
+#: widgets/bldr-services.php:13
+#@ bldr
+msgid "Have a lot of services? Show them to the world."
+msgstr "¿Tiene un montón de servicios? Mostrarles al mundo."
+
+#: widgets/bldr-services.php:15
+#@ bldr
+msgid "Home Page Services"
+msgstr "Página de inicio de servicios"
+
+#: widgets/bldr-services.php:51
+#@ bldr
+msgid "In order to display this widget, you must first add some Services custom post types."
+msgstr "Para mostrar este widget, primero es necesario agregar algunos tipos de correos personalizados servicios."
+
+#: widgets/bldr-services.php:170
+#@ bldr
+msgid "Services"
+msgstr "Servicios"
+
+#: widgets/bldr-testimonials.php:13
+#@ bldr
+msgid "What are people saying? Let everyone know."
+msgstr "¿Qué dice la gente? Que todos lo sepan."
+
+#: widgets/bldr-testimonials.php:15
+#@ bldr
+msgid "Home Page Testimonials"
+msgstr "Página de inicio testimonios"
+
+#: widgets/bldr-testimonials.php:53
+#@ bldr
+msgid "In order to display this widget, you must first add some Testimonial custom post types."
+msgstr "Para mostrar este widget, primero es necesario agregar algunos tipos de correos personalizados Testimonial."
+
+#: widgets/bldr-testimonials.php:78
+#@ bldr
+msgid "Show random testimonials?"
+msgstr "¿Mostrar testimonios al azar?"
+
+#: widgets/bldr-testimonials.php:178
+#@ bldr
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: functions.php:113
+#@ bldr
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:163
+#@ bldr
+msgid "Addtional Sidebar 1"
+msgstr ""
+
+#: functions.php:173
+#@ bldr
+msgid "Addtional Sidebar 2"
+msgstr ""
+
+#: functions.php:183
+#@ bldr
+msgid "Addtional Sidebar 3"
+msgstr ""
+
+#: functions.php:193
+#@ bldr
+msgid "Addtional Sidebar 4"
+msgstr ""
+
+#: functions.php:203
+#@ bldr
+msgid "Addtional Sidebar 5"
+msgstr ""
+
+#: header.php:66
+#@ bldr
+msgid "Close Menu"
+msgstr "Cerrar menú"
+
+#: inc/customizer.php:37
+#@ bldr
+msgid "We created a quick theme setup video to help you get started with BLDR. Watch the video by clicking the link below.</br></br><a href=\"//modernthemes.net/documentation/bldr-documentation/bldr-quick-setup-tutorial/\" target=\"_blank\">View Video</a>"
+msgstr ""
+
+#: inc/customizer.php:432
+#@ bldr
+msgid "Slider Options"
+msgstr "Opciones de cursor"
+
+#: inc/customizer.php:433
+#@ bldr
+msgid "If you select the home page template with a slider, edit your home page slider options."
+msgstr "Si selecciona la plantilla de página de inicio con un slider, editar tus opciones de deslizador de página de inicio."
+
+#: inc/customizer.php:438
+#@ bldr
+msgid "Slider"
+msgstr "Control deslizante"
+
+#: inc/customizer.php:440
+#@ bldr
+msgid "Edit your Slider"
+msgstr "Editar su Slider"
+
+#: inc/customizer.php:453
+#@ bldr
+msgid "Hide Slider"
+msgstr "Ocultar barra deslizante"
+
+#: inc/customizer.php:466
+#@ bldr
+msgid "Slider Speed"
+msgstr "Velocidad de regulador"
+
+#: inc/customizer.php:475
+#@ bldr
+msgid "Video Banner Option"
+msgstr "Opción de video Banner"
+
+#: inc/customizer.php:477
+#@ bldr
+msgid "Please select the <strong>Home Page - Video</strong> template file for your Home page. Then upload your video files to your root folder and type the URLs (ex: video_banner.mp4) of the video files in the following boxes. If you leave them blank then the featured image of this page will be used instead. It is advised that you convert your video to mp4, webm, and ogv for full browser support, you can find more info on that <a href=\"http://www.syntaxxx.com/how-to-html5-background-video/\">here</a>.</br></br> Video will only play on desktop screens, as mobile devices do not support them. On mobile the featured image is displayed (so you should always set one) and it should be at least 1920x1000 in size for best appearance."
+msgstr "Por favor, seleccione el archivo de plantilla de <strong>página de inicio - vídeo</strong> para tu página de inicio. Luego subir tus archivos de vídeo a la carpeta raíz y escriba la URL (ex: video_banner.mp4) de los archivos de vídeo en los siguientes cuadros. Si los dejas en blanco entonces la imagen recomendada de esta página se utilizará en su lugar. Se aconseja que convertir el vídeo a mp4, webm y ogv apoyo navegador completo, puedes encontrar más info sobre eso <a href=\\\"http://www.syntaxxx.com/how-to-html5-background-video/\\\">aquí</a>.<br>Video sólo jugará en pantallas de escritorio, como dispositivos móviles no son compatibles con los. En el móvil se muestra la imagen recomendada (por lo que siempre debes fijar uno) y debe ser por lo menos 1920 x 1000 en tamaño para una mejor apariencia."
+
+#: inc/customizer.php:487
+#@ bldr
+msgid "Video Banner .mp4 File"
+msgstr "Archivo. mp4 video Banner"
+
+#: inc/customizer.php:488
+#@ bldr
+msgid "ex: video_banner.mp4"
+msgstr ""
+
+#: inc/customizer.php:501
+#@ bldr
+msgid "Video Banner .webm File"
+msgstr "Banner vídeo WebM archivo"
+
+#: inc/customizer.php:502
+#@ bldr
+msgid "ex: video_banner.webm"
+msgstr ""
+
+#: inc/customizer.php:515
+#@ bldr
+msgid "Video Banner .ogv File"
+msgstr "Video Banner .ogv archivo"
+
+#: inc/customizer.php:516
+#@ bldr
+msgid "ex: video_banner.ogv"
+msgstr ""
+
+#: inc/customizer.php:527
+#@ bldr
+msgid "Home Hero Options"
+msgstr "Opciones de héroe casero"
+
+#: inc/customizer.php:528
+#@ bldr
+msgid "If you select the home page template with a hero section, edit your homepage hero options."
+msgstr "Si selecciona la plantilla de página de inicio con una sección de héroe, editar tus opciones de héroe de presentación."
+
+#: inc/customizer.php:1218
+#@ bldr
+msgid "Skill Bar Color"
+msgstr "Color de la barra de habilidad"
+
+#: panel/bldr-admin_page.php:238
+#@ bldr
+msgid "Want more to learn more about ModernThemes? Let us help you at <a href=\"//modernthemes.net/custom-work/\" target=\"_blank\">modernthemes.net</a>."
+msgstr ""
+
+#: widgets/bldr-details.php:11
+#@ bldr
+msgid "With this widget you can tell the world what you have done."
+msgstr "Con este widget puedes decírselo al mundo lo que has hecho."
+
+#: widgets/bldr-details.php:13
+#@ bldr
+msgid "Home Page Details"
+msgstr "Detalles de la página de inicio"
+
+#: widgets/bldr-details.php:87
+#@ bldr
+msgid "First detail icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Primer icono de detalle. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-details.php:95
+#@ bldr
+msgid "First detail name"
+msgstr "Primer nombre de detalle"
+
+#: widgets/bldr-details.php:105
+#@ bldr
+msgid "First detail value"
+msgstr "Primer valor detalle"
+
+#: widgets/bldr-details.php:117
+#@ bldr
+msgid "Second detail icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Segundo icono de detalle. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-details.php:125
+#@ bldr
+msgid "Second detail name"
+msgstr "Segundo nombre de detalle"
+
+#: widgets/bldr-details.php:135
+#@ bldr
+msgid "Second detail value"
+msgstr "Segundo valor detalle"
+
+#: widgets/bldr-details.php:147
+#@ bldr
+msgid "Third detail icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Tercer icono de detalle. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-details.php:155
+#@ bldr
+msgid "Third detail name"
+msgstr "Tercer nombre de detalle"
+
+#: widgets/bldr-details.php:165
+#@ bldr
+msgid "Third detail value"
+msgstr "Valor del tercer detalle"
+
+#: widgets/bldr-details.php:177
+#@ bldr
+msgid "Fourth detail icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Cuarto icono de detalle. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-details.php:185
+#@ bldr
+msgid "Fourth detail name"
+msgstr "Cuarto nombre de detalle"
+
+#: widgets/bldr-details.php:195
+#@ bldr
+msgid "Fourth detail value"
+msgstr "Cuarto valor detalle"
+
+#: widgets/bldr-details.php:205
+#@ bldr
+msgid "Fifth detail icon. Use fortawesome.github.io/Font-Awesome/cheatsheet/ to choose icons."
+msgstr "Quinto icono de detalle. Utilice fortawesome.github.io/Font-Awesome/cheatsheet/ para elegir los iconos."
+
+#: widgets/bldr-details.php:213
+#@ bldr
+msgid "Fifth detail name"
+msgstr "Quinto nombre detalle"
+
+#: widgets/bldr-details.php:223
+#@ bldr
+msgid "Fifth detail value"
+msgstr "Quinto valor detalle"
+
+#: widgets/bldr-details.php:347
+#@ bldr
+msgid "Details"
+msgstr "Detalles"
+
+#: widgets/bldr-skills.php:13
+#@ bldr
+msgid "Got some skills? Show them off with some neat progress bars."
+msgstr "¿Tengo algunas habilidades? Mostrarlos con unas barras de progreso ordenado."
+
+#: widgets/bldr-skills.php:15
+#@ bldr
+msgid "Home Page Skills"
+msgstr "Página de inicio de habilidades"
+
+#: widgets/bldr-skills.php:80
+#@ bldr
+msgid "Enter your description for the skills area."
+msgstr "Ingrese su descripción para el área de habilidades."
+
+#: widgets/bldr-skills.php:92
+#@ bldr
+msgid "First Skill"
+msgstr "Primera habilidad"
+
+#: widgets/bldr-skills.php:102
+#@ bldr
+msgid "First Skill Percentage"
+msgstr "Primer porcentaje de habilidad"
+
+#: widgets/bldr-skills.php:114
+#@ bldr
+msgid "Second Skill"
+msgstr "Segunda habilidad"
+
+#: widgets/bldr-skills.php:124
+#@ bldr
+msgid "Second Skill Percentage"
+msgstr "Segundo porcentaje de habilidad"
+
+#: widgets/bldr-skills.php:136
+#@ bldr
+msgid "Third skill"
+msgstr "Tercera habilidad"
+
+#: widgets/bldr-skills.php:146
+#@ bldr
+msgid "Third Skill Percentage"
+msgstr "Tercera habilidad porcentaje"
+
+#: widgets/bldr-skills.php:158
+#@ bldr
+msgid "Fourth Skill"
+msgstr "Cuarta habilidad"
+
+#: widgets/bldr-skills.php:168
+#@ bldr
+msgid "Fourth Skill Percentage"
+msgstr "Cuarta habilidad porcentaje"
+
+#: widgets/bldr-skills.php:180
+#@ bldr
+msgid "Fifth Skill"
+msgstr "Quinta habilidad"
+
+#: widgets/bldr-skills.php:190
+#@ bldr
+msgid "Fifth Skill Percentage"
+msgstr "Quinto porcentaje de habilidad"
+
+#: widgets/bldr-skills.php:307
+#@ bldr
+msgid "Skills"
+msgstr "Habilidades"
+
+#: widgets/bldr-team.php:13
+#@ bldr
+msgid "With this widget you can display your top notch team members."
+msgstr "Con este widget se pueden visualizar a los miembros del equipo de primera categoría."
+
+#: widgets/bldr-team.php:15
+#@ bldr
+msgid "Home Page Team Members"
+msgstr "Miembros del equipo página"
+
+#: widgets/bldr-team.php:51
+#@ bldr
+msgid "In order to display this widget, you must first add some team member custom post types."
+msgstr "Para mostrar este widget, primero es necesario agregar algunos tipos de correos personalizados de miembros de equipo."
+
+#: widgets/bldr-team.php:167
+#@ bldr
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: inc/customizer.php:467
+#@ bldr
+msgid "Change the speed of your slider in ms (1000 = 1s). Use only the numeric value. Default is 5000."
+msgstr "Cambiar la velocidad de su slider en ms (1000 = 1s). Utilice sólo el valor numérico. Por defecto es 5000."
+
+#: widgets/bldr-cta.php:103
+#@ bldr
+msgid "Make your Call-to-Action background an image (Use a picture that is 1200px x 800px for best results). IMPORTANT - Go to Edit Row > Theme > Background image and paste image URL to populate. Delete the URL below after you have copied it."
+msgstr "Hacer su llamada a la acción de fondo una imagen (uso una imagen 1200px x 800px para obtener mejores resultados). IMPORTANTE: ir a editar fila > tema > imagen de fondo y pegar la URL de la imagen para rellenar. Elimine la siguiente URL después de que lo ha copiado."
+
+#: panel/bldr-admin_page.php:210
+#@ bldr
+msgid "BLDR Pro Theme Setup"
+msgstr "BLDR Pro Theme Setup"
+
+#: panel/bldr-admin_page.php:214
+#@ bldr
+msgid "We created a quick theme setup video to help you get started with BLDR. Watch the video <a href=\"//modernthemes.net/documentation/bldr-documentation/bldr-pro-content-import-tutorial/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: panel/bldr-admin_page.php:226
+#@ bldr
+msgid "Check out our <a href=\"//modernthemes.net/documentation/bldr-documentation/bldr-pro-documentation/\" target=\"_blank\">BLDR Pro Documentation</a> to learn how to use BLDR Pro and for tutorials on theme functions. "
+msgstr ""
+
+#: panel/bldr-admin_page.php:230
+#@ bldr
+msgid "Read Pro Docs"
+msgstr "Leer a Docs Pro"
+
+#: functions.php:424
+#@ bldr
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr ""
+
+#: functions.php:425
+#@ bldr
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: functions.php:426
+#@ bldr
+msgid "Slides"
+msgstr "Diapositivas"
+
+#: functions.php:427
+#@ bldr
+msgid "Parent Item:"
+msgstr "Artículo principal:"
+
+#: functions.php:428
+#@ bldr
+msgid "All Slides"
+msgstr "Todas las diapositivas"
+
+#: functions.php:429
+#@ bldr
+msgid "View Slides"
+msgstr "Ver diapositivas"
+
+#: functions.php:430
+#@ bldr
+msgid "Add New Slide"
+msgstr "Agregar nueva diapositiva"
+
+#: functions.php:431
+#@ bldr
+msgid "Add New"
+msgstr "Agregar nuevo"
+
+#: functions.php:432
+#@ bldr
+msgid "Edit Slide"
+msgstr "Editar diapositivas"
+
+#: functions.php:433
+#@ bldr
+msgid "Update Slide"
+msgstr "Actualización de diapositiva"
+
+#: functions.php:434
+#@ bldr
+msgid "Search Slides"
+msgstr "Búsqueda diapositivas"
+
+#: functions.php:435
+#@ bldr
+msgid "Not found"
+msgstr "No se encontró"
+
+#: functions.php:436
+#@ bldr
+msgid "Not found in Trash"
+msgstr "No se encontró en la basura"
+
+#: functions.php:439
+#@ bldr
+msgid "slides"
+msgstr "diapositivas"
+
+#: functions.php:440
+#@ bldr
+msgid "Add a slide to your schedule."
+msgstr "Agregar una diapositiva a su horario."
+
+#: functions.php:469
+#@ bldr
+msgid "Slide Information"
+msgstr "Información de la diapositiva"
+
+#: functions.php:486
+#@ bldr
+msgid "Button URL"
+msgstr "Botón URL"
+
+#: meta/example-functions.php:28
+#@ cmb
+msgid "Test Metabox"
+msgstr ""
+
+#: meta/example-functions.php:36
+#: meta/example-functions.php:270
+#@ cmb
+msgid "Test Text"
+msgstr ""
+
+#: meta/example-functions.php:37
+#: meta/example-functions.php:48
+#: meta/example-functions.php:55
+#: meta/example-functions.php:62
+#: meta/example-functions.php:70
+#: meta/example-functions.php:77
+#: meta/example-functions.php:89
+#: meta/example-functions.php:95
+#: meta/example-functions.php:102
+#: meta/example-functions.php:117
+#: meta/example-functions.php:125
+#: meta/example-functions.php:132
+#: meta/example-functions.php:138
+#: meta/example-functions.php:144
+#: meta/example-functions.php:156
+#: meta/example-functions.php:167
+#: meta/example-functions.php:178
+#: meta/example-functions.php:189
+#: meta/example-functions.php:197
+#: meta/example-functions.php:204
+#: meta/example-functions.php:212
+#: meta/example-functions.php:218
+#: meta/example-functions.php:230
+#: meta/example-functions.php:271
+#: meta/example-functions.php:337
+#: meta/example-functions.php:344
+#: meta/example-functions.php:351
+#: meta/example-functions.php:357
+#: meta/example-functions.php:363
+#: meta/example-functions.php:369
+#: meta/example-functions.php:375
+#: meta/example-functions.php:393
+#@ cmb
+msgid "field description (optional)"
+msgstr ""
+
+#: meta/example-functions.php:47
+#@ cmb
+msgid "Test Text Small"
+msgstr ""
+
+#: meta/example-functions.php:54
+#@ cmb
+msgid "Test Text Medium"
+msgstr ""
+
+#: meta/example-functions.php:61
+#@ cmb
+msgid "Website URL"
+msgstr ""
+
+#: meta/example-functions.php:69
+#@ cmb
+msgid "Test Text Email"
+msgstr ""
+
+#: meta/example-functions.php:76
+#@ cmb
+msgid "Test Time"
+msgstr ""
+
+#: meta/example-functions.php:82
+#: meta/example-functions.php:83
+#@ cmb
+msgid "Time zone"
+msgstr ""
+
+#: meta/example-functions.php:88
+#@ cmb
+msgid "Test Date Picker"
+msgstr ""
+
+#: meta/example-functions.php:94
+#@ cmb
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: meta/example-functions.php:101
+#@ cmb
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: meta/example-functions.php:116
+#@ cmb
+msgid "Test Money"
+msgstr ""
+
+#: meta/example-functions.php:124
+#@ cmb
+msgid "Test Color Picker"
+msgstr ""
+
+#: meta/example-functions.php:131
+#@ cmb
+msgid "Test Text Area"
+msgstr ""
+
+#: meta/example-functions.php:137
+#@ cmb
+msgid "Test Text Area Small"
+msgstr ""
+
+#: meta/example-functions.php:143
+#@ cmb
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: meta/example-functions.php:149
+#@ cmb
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: meta/example-functions.php:150
+#@ cmb
+msgid "This is a title description"
+msgstr ""
+
+#: meta/example-functions.php:155
+#@ cmb
+msgid "Test Select"
+msgstr ""
+
+#: meta/example-functions.php:160
+#: meta/example-functions.php:171
+#: meta/example-functions.php:182
+#@ cmb
+msgid "Option One"
+msgstr ""
+
+#: meta/example-functions.php:161
+#: meta/example-functions.php:172
+#: meta/example-functions.php:183
+#@ cmb
+msgid "Option Two"
+msgstr ""
+
+#: meta/example-functions.php:162
+#: meta/example-functions.php:173
+#: meta/example-functions.php:184
+#@ cmb
+msgid "Option Three"
+msgstr ""
+
+#: meta/example-functions.php:166
+#@ cmb
+msgid "Test Radio inline"
+msgstr ""
+
+#: meta/example-functions.php:177
+#@ cmb
+msgid "Test Radio"
+msgstr ""
+
+#: meta/example-functions.php:188
+#@ cmb
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: meta/example-functions.php:196
+#@ cmb
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: meta/example-functions.php:203
+#@ cmb
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:211
+#@ cmb
+msgid "Test Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:217
+#@ cmb
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: meta/example-functions.php:222
+#@ cmb
+msgid "Check One"
+msgstr ""
+
+#: meta/example-functions.php:223
+#@ cmb
+msgid "Check Two"
+msgstr ""
+
+#: meta/example-functions.php:224
+#@ cmb
+msgid "Check Three"
+msgstr ""
+
+#: meta/example-functions.php:229
+#@ cmb
+msgid "Test wysiwyg"
+msgstr ""
+
+#: meta/example-functions.php:236
+#@ cmb
+msgid "Test Image"
+msgstr ""
+
+#: meta/example-functions.php:237
+#@ cmb
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: meta/example-functions.php:242
+#@ cmb
+msgid "Multiple Files"
+msgstr ""
+
+#: meta/example-functions.php:243
+#@ cmb
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: meta/example-functions.php:249
+#@ cmb
+msgid "oEmbed"
+msgstr ""
+
+#: meta/example-functions.php:250
+#@ cmb
+msgid "Enter a youtube, twitter, or instagram URL. Supports services listed at <a href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/Embeds</a>."
+msgstr ""
+
+#: meta/example-functions.php:262
+#@ cmb
+msgid "About Page Metabox"
+msgstr ""
+
+#: meta/example-functions.php:283
+#@ cmb
+msgid "Repeating Field Group"
+msgstr ""
+
+#: meta/example-functions.php:289
+#@ cmb
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: meta/example-functions.php:291
+#@ cmb
+msgid "Entry {#}"
+msgstr ""
+
+#: meta/example-functions.php:292
+#@ cmb
+msgid "Add Another Entry"
+msgstr ""
+
+#: meta/example-functions.php:293
+#@ cmb
+msgid "Remove Entry"
+msgstr ""
+
+#: meta/example-functions.php:330
+#@ cmb
+msgid "User Profile Metabox"
+msgstr ""
+
+#: meta/example-functions.php:336
+#@ cmb
+msgid "Extra Info"
+msgstr ""
+
+#: meta/example-functions.php:343
+#@ cmb
+msgid "Avatar"
+msgstr ""
+
+#: meta/example-functions.php:350
+#@ cmb
+msgid "Facebook URL"
+msgstr ""
+
+#: meta/example-functions.php:356
+#@ cmb
+msgid "Twitter URL"
+msgstr ""
+
+#: meta/example-functions.php:362
+#@ cmb
+msgid "Google+ URL"
+msgstr ""
+
+#: meta/example-functions.php:368
+#@ cmb
+msgid "Linkedin URL"
+msgstr ""
+
+#: meta/example-functions.php:374
+#@ cmb
+msgid "User Field"
+msgstr ""
+
+#: meta/example-functions.php:388
+#@ cmb
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: meta/example-functions.php:392
+#@ cmb
+msgid "Site Background Color"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:47
+#@ cmb
+msgid "Please Try Again"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:131
+#@ cmb
+msgid "Remove Embed"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_field.php:459
+#@ cmb
+msgid "Add Group"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_field.php:460
+#@ cmb
+msgid "Remove Group"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:250
+#@ cmb
+msgid "Add Row"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:306
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Remove"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:601
+#: meta/helpers/cmb_Meta_Box_types.php:635
+#@ cmb
+msgid "No terms"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:674
+#: meta/helpers/cmb_Meta_Box_types.php:728
+#@ cmb
+msgid "Add or Upload File"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:695
+#: meta/helpers/cmb_Meta_Box_types.php:760
+#@ cmb
+msgid "Remove Image"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "File:"
+msgstr ""
+
+#: meta/helpers/cmb_Meta_Box_types.php:706
+#: meta/helpers/cmb_Meta_Box_types.php:768
+#@ cmb
+msgid "Download"
+msgstr ""
+
+#: meta/init.php:264
+#@ cmb
+msgid "Select / Deselect All"
+msgstr ""
+
+#: meta/init.php:1153
+#@ sensible
+msgid "Save"
+msgstr ""
+
+#: widgets/bldr-projects.php:61
+#@ bldr
+msgid "Number of projects to show (-1 shows all):"
+msgstr "Número de proyectos para mostrar (-1 muestra todos):"
+
+#: widgets/bldr-projects.php:65
+#@ bldr
+msgid "<em>Optional:</em> Enter the URL for your Projects page."
+msgstr "<em>Opcional:</em> Introduzca la dirección URL de la página de proyectos."
+
+#: widgets/bldr-projects.php:69
+#: widgets/bldr-services.php:70
+#: widgets/bldr-team.php:69
+#: widgets/bldr-testimonials.php:72
+#@ bldr
+msgid "Enter the Button Text. Default is set to <em>See All</em>."
+msgstr "Ingrese el texto del botón. Por defecto se establece en <em>Ver todas</em>."
+
+#: widgets/bldr-services.php:62
+#@ bldr
+msgid "Number of services to show (-1 shows all):"
+msgstr "Número de servicios para mostrar (-1 muestra todos):"
+
+#: widgets/bldr-services.php:66
+#@ bldr
+msgid "<em>Optional:</em> Enter the URL for your Services page."
+msgstr "<em>Opcional:</em> Introduzca la dirección URL de la página de servicios."
+
+#: widgets/bldr-team.php:61
+#@ bldr
+msgid "Number of Team Members to show (-1 shows all):"
+msgstr "Número de miembros del equipo para mostrar (-1 muestra todos):"
+
+#: widgets/bldr-team.php:65
+#@ bldr
+msgid "<em>Optional:</em> Enter the URL for your Team Members page."
+msgstr "<em>Opcional:</em> Introduzca la dirección URL de la página de los miembros del equipo."
+
+#: widgets/bldr-testimonials.php:64
+#@ bldr
+msgid "Number of testimonials to show (-1 shows all):"
+msgstr "Número de testimonios para mostrar (-1 muestra todos):"
+
+#: widgets/bldr-testimonials.php:68
+#@ bldr
+msgid "<em>Optional:</em> Enter the URL for your Testimonials page."
+msgstr "<em>Opcional:</em> Introduzca la dirección URL de la página de testimonios."
+

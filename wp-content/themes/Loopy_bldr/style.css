@@ -2,12 +2,12 @@
 Theme Name: Loopy
 Author: Loopylogic
 
-Description: A child theme of BLDR
+Description: A child theme of BLDR Pro
 Version: Beta
-Template:bldr
+Template:bldr_pro
 
 */
-@import url('../bldr/style.css');
+@import url('../bldr_pro/style.css');
 
 
 /*--------------------------------------------------------------
@@ -16,18 +16,81 @@ Changes for CSS style:
 
 /* ----------- Hero area ------------------- */
 
+
+.bldr-hero-content-container {
+	height: 100%;
+	display: table;
+	width: 100%;
+  top: 35%;
+  left: 0;
+  position: absolute;
+}
+
+.bldr-hero-content {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+.overlay {
+  display: block;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background: #000;
+  opacity: 0.6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+  filter: alpha(opacity=60);
+}
+
+
+
 .bldr-hero-content h1 {
-    font-size: 50px;
+    font-size: 80px;
     line-height: 54px;
     margin-bottom: 15px;
-    color: #666666;
+    color: #f5f5f5;
 }
+
+
+.bldr-hero-content h2 {
+    font-size: 30px;
+    line-height: 24px;
+    color: #ffffff;
+}
+
+
+@media handheld, only screen and (max-width: 767px) {
+.bldr-hero-content h1 {
+    font-size: 30px;
+    line-height: 10px;
+}
+
 
 .bldr-hero-content h2 {
     font-size: 20px;
-    line-height: 24px;
-    color: #666666;
+    line-height: 10px;
+    color: #ffffff;
 }
+
+.bldr-hero-content-container {
+  top: 45%;
+}
+
+
+}
+
+
+
+
+
+.col-1-3 {
+    width: 50%;
+}
+
 
 
 

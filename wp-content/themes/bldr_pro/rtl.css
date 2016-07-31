@@ -1,0 +1,87 @@
+/*
+Theme Name: BLDR Pro
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support 
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+textarea{padding-right:3px;}
+blockquote{border-right:5px solid #222;border-radius:4px 0 0 4px;}
+ul,ol{margin:0 3em 1.5em 0;}
+li > ul,li > ol{margin-right:1.5em;}
+.main-navigation{float:right;}
+.main-navigation ul{padding-right:0;}
+.main-navigation li{float:right;}
+.main-navigation ul ul{float:right;left:-999em;}
+.main-navigation ul ul ul{left:-999em;}
+.main-navigation ul li:hover > ul{left:50%;margin-left:-35%;}
+.main-navigation ul ul li:hover > ul{left:100%;margin-left:0;}
+.comment-navigation .nav-previous, .paging-navigation .nav-previous, .post-navigation .nav-previous, .posts-navigation .nav-previous{float:right;}
+.comment-navigation .nav-next, .paging-navigation .nav-next, .post-navigation .nav-next, .posts-navigation .nav-next{float:left;}
+.screen-reader-text:hover,.screen-reader-text:active,.screen-reader-text:focus{right:5px;}
+.alignleft{float:right;margin-left:1.5em;}
+.alignright{float:left;margin-right:1.5em;}
+.aligncenter{margin-right:auto;margin-left:auto;}
+.widget-area{padding-right:20px;}
+.sidebar-left{padding-right:0;padding-left:20px;}
+#page-entry-content:before, #blog-entry-content:before{left:25%;}
+#page-right-entry-content:before{right:25%;}
+.site-branding{float:right;}
+.navigation-container{float:left;padding-left:20px;}
+.bldr-hero-content{margin-right:auto;margin-left:auto;padding-right:40px;padding-left:40px;}
+.bldr-hero-bg{right:0;}
+.site-footer ul{margin:0 1em 0 0;}
+.social-bar span{float:right;margin-left:2%;text-align:left;}
+.social-media-icons{float:right;padding-right:0;}
+.skills-bg span{right:0;}
+.skills-info p{text-align:right;}
+.skills-info p span{float:left;}
+.skills-p p{text-align:right;}
+.progressBar div{text-align:left;}
+.skills-p{text-align:right;}
+span.meta-block{margin-left:30px;}
+span.meta-block img{margin-left:10px;}
+span.meta-block .fa{margin-left:5px;}
+.comments-area ol.children{margin-right:1.5em;}
+.comment-form-author, .comment-form-email, .comment-form-url{float:right;}
+.comment-form-author, .comment-form-email{padding-left:0.5em;}
+footer.comment-meta{float:right;}
+div.comment-content{float:left;}
+div.reply{padding-right:30%;}
+.caption{right:0;left:0;}
+[class*=\'col-\']{float:right;padding-left:40px;}
+.col-home{float:right;padding-left:0px;}
+.grid-pad{padding-right:40px;padding-left:0px;}
+.grid-home-pad{padding-left:0px;}
+.push-right, .page-left-sidebar{float:left;}
+.push-2-3, .push-8-12{margin-right:66.66%;}
+.push-1-2, .push-6-12{margin-right:50%;}
+.push-1-3, .push-4-12{margin-right:33.33%;}
+.push-1-4, .push-3-12{margin-right:25%;}
+.push-1-5{margin-right:20%;}
+.push-1-6, .push-2-12{margin-right:16.667%;}
+.push-1-7{margin-right:14.28%;}
+.push-1-8{margin-right:12.5%;}
+.push-1-9{margin-right:11.1%;}
+.push-1-10{margin-right:10%;}
+.push-1-11{margin-right:9.09%;}
+.push-1-12{margin-right:8.33%;}
+@media handheld, only screen and (max-width:867px) {
+    .widget .bldr-panel,section .bldr-panel{margin-right:0px;margin-left:0px;padding-right:10px;padding-left:10px;}
+    .grid{margin-right:0px;margin-left:0px;padding-right:20px;padding-left:10px;}
+    #home-content .panel-grid-cell section{margin-right:0px;margin-left:0px;padding-right:10px;padding-left:10px;}
+    .so-panel{margin-right:0px;margin-left:0px;padding-right:10px;padding-left:10px;}
+    [class*=\'col-\']{margin-right:0px;margin-left:0px;padding-right:0px;padding-left:10px;}
+    [class*=\'mobile-col-\']{float:right;margin-right:0px;margin-left:0px;padding-right:0px;padding-left:10px;}
+    .widget-area{padding-right:0;}
+}

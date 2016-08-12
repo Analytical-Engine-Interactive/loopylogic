@@ -92,6 +92,27 @@ Changes for CSS style:
 }
 
 
+/* ------------ posts ------------  */
+
+
+#page-entry-content:before, #blog-entry-content:before {
+    background-color: #ffffff;
+    content: "";
+    height: 100%;
+    position: absolute;
+    right: 100%;
+    top: 0;
+    width: 1px;
+}
+
+.col-9-12 {
+    width: 100%;
+}
+
+
+
+
+
 
 
 /* ----------- Footer ---------------------- */
